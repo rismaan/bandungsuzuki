@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
     <footer className="bg-suzukiBlue text-white">
       <div className="container mx-auto px-6 py-8">
         <div className="sm:flex sm:items-center sm:justify-between">
-          <p className="text-center text-md text-gray-300">© 2024 Suzuki Dealership. All Rights Reserved.</p>
+          <p className="text-center text-md text-gray-300">© 2025 Suzuki Dealership. All Rights Reserved.</p>
           <div className="flex justify-center mt-4 sm:mt-0">
              <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="text-gray-300 hover:text-white">
                 Hubungi Risman
