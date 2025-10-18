@@ -354,6 +354,6 @@ export const ARTICLES: Article[] = [
     content: 'Keduanya adalah pilihan terbaik untuk mobil keluarga 7 penumpang, namun dengan karakter yang berbeda. XL7 Hybrid menawarkan ground clearance lebih tinggi dan desain SUV yang gagah, cocok untuk keluarga yang suka berpetualang. Di sisi lain, All New Ertiga fokus pada kenyamanan kabin premium dan kemewahan, ideal untuk perjalanan keluarga di dalam kota maupun luar kota. Keduanya kini dilengkapi fitur-fitur modern dan efisiensi bahan bakar yang baik. Pilihan kembali pada prioritas dan gaya hidup keluarga Anda.',
     imageUrl: 'https://images.bisnis.com/posts/2025/08/19/1903812/suzuki_fronx_1_1750940009.jpg',
     author: 'Risman Suzuki',
-    publishDate: '5 Juli 2024'
+    publishDate: '5 Juli 2025'
   },
 ];
